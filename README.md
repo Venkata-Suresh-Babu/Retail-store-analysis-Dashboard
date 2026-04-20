@@ -3,6 +3,8 @@
 
 Built an interactive Power BI dashboard to analyze retail sales performance and customer behavior across product categories, gender, seasonality, discounts, and item ratings. The objective was to identify revenue drivers, evaluate discount effectiveness, and surface actionable insights to support pricing, inventory planning, and marketing decisions.
 
+<img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/0980e927-dad7-4cc7-908a-af88662f3b87" />
+
 # 2. Dataset Overview
 
 The dataset contains transactional-level retail data with the following key attributes:
@@ -58,8 +60,6 @@ Line Chart (Revenue by Season): Tracks seasonal revenue trends to highlight dema
 Performance Snapshot Table: Summarizes category-level performance with conditional formatting applied to revenue, ratings, and discount metrics to highlight high and low performers.
 
 Slicers: Enabled filtering by Gender to allow focused analysis and interactive exploration.
-
-<img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/0980e927-dad7-4cc7-908a-af88662f3b87" />
 
 
 # 5. Key Insights
