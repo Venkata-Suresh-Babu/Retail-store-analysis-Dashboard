@@ -1,9 +1,11 @@
 # Retail Store Sales Dashboard | Power BI
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/900dcef5-9366-4bfd-adea-78187d861ee9" />
+
 # 1. Project Objective
 
 Built an interactive Power BI dashboard to analyze retail sales performance and customer behavior across product categories, gender, seasonality, discounts, and item ratings. The objective was to identify revenue drivers, evaluate discount effectiveness, and surface actionable insights to support pricing, inventory planning, and marketing decisions.
 
-<img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/0980e927-dad7-4cc7-908a-af88662f3b87" />
 
 # 2. Dataset Overview
 
@@ -61,6 +63,7 @@ Performance Snapshot Table: Summarizes category-level performance with condition
 
 Slicers: Enabled filtering by Gender to allow focused analysis and interactive exploration.
 
+<img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/0980e927-dad7-4cc7-908a-af88662f3b87" />
 
 # 5. Key Insights
 
