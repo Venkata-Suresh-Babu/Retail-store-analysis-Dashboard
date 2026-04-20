@@ -1,25 +1,25 @@
-Retail Store Sales Dashboard – Analysis Notes (Power BI)
-1. Project Objective
+# Retail Store Sales Dashboard – Analysis Notes (Power BI)
+# 1. Project Objective
 
 Built an interactive Power BI dashboard to analyze retail sales performance and customer behavior across product categories, gender, seasonality, discounts, and item ratings. The objective was to identify revenue drivers, evaluate discount effectiveness, and surface actionable insights to support pricing, inventory planning, and marketing decisions.
 
-2. Dataset Overview
+# 2. Dataset Overview
 
 The dataset contains transactional-level retail data with the following key attributes:
 
-Customer demographics: Age, Age Group, Gender
+**Customer demographics:** Age, Age Group, Gender
 
-Sales metrics: Amount, Discount Applied (%), Item Rating
+**Sales metrics:** Amount, Discount Applied (%), Item Rating
 
-Product information: Category, Item Purchased
+**Product information:** Category, Item Purchased
 
-Behavioral attributes: Payment Method, Previous Purchases
+**Behavioral attributes:** Payment Method, Previous Purchases
 
-Time dimension: Season
+**Time dimension:** Season
 
-The dataset represents 5,000 customers with purchases distributed across multiple product categories and seasons.
+The dataset represents **5,000 customers** with purchases distributed across multiple product categories and seasons.
 
-3. Data Modeling & DAX Measures
+# 3. Data Modeling & DAX Measures
 
 Created DAX measures to support business reporting and aggregation:
 
@@ -41,7 +41,7 @@ Male %, Female %
 
 These measures enabled consistent calculations across visuals and supported cross-filtering and drill-down analysis.
 
-4. Dashboard Design & Visuals Used
+# 4. Dashboard Design & Visuals Used
 
 The dashboard was designed to support both executive-level overview and detailed category analysis:
 
@@ -59,7 +59,10 @@ Performance Snapshot Table: Summarizes category-level performance with condition
 
 Slicers: Enabled filtering by Gender to allow focused analysis and interactive exploration.
 
-5. Key Insights
+<img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/0980e927-dad7-4cc7-908a-af88662f3b87" />
+
+
+# 5. Key Insights
 
 Electronics is the primary revenue driver
 Electronics contributes the highest share of total revenue by a significant margin. Performance changes in this category have the greatest impact on overall business results.
@@ -79,7 +82,10 @@ Seasonal analysis shows that revenue peaks during Spring and declines toward Aut
 Product ratings remain stable across categories
 Avg item ratings are relatively consistent across categories, suggesting customer satisfaction levels do not explain revenue differences. Revenue variation is more closely tied to demand, pricing, and category relevance.
 
-6. Business Recommendations
+<img width="1282" height="718" alt="image" src="https://github.com/user-attachments/assets/f461b2d6-45f5-4039-bc78-353587410adf" />
+
+
+# 6. Business Recommendations
 
 Prioritize inventory and assortment planning for Electronics due to its dominant revenue contribution.
 
@@ -91,7 +97,10 @@ Design category-specific marketing campaigns based on observed gender purchase p
 
 Increase marketing spend and stock availability ahead of the Spring season to capture peak demand.
 
-7. Technical Skills Demonstrated
+<img width="1283" height="719" alt="image" src="https://github.com/user-attachments/assets/c159ce19-50b3-40ee-910c-9af36f4a11b7" />
+
+
+# 7. Technical Skills Demonstrated
 
 Built interactive dashboards using Power BI
 
