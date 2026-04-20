@@ -1,4 +1,4 @@
-# Retail Store Sales Dashboard – Analysis Notes (Power BI)
+# Retail Store Sales Dashboard | Power BI
 # 1. Project Objective
 
 Built an interactive Power BI dashboard to analyze retail sales performance and customer behavior across product categories, gender, seasonality, discounts, and item ratings. The objective was to identify revenue drivers, evaluate discount effectiveness, and surface actionable insights to support pricing, inventory planning, and marketing decisions.
